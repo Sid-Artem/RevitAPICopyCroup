@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly> "C:\Program Files\RevitAPITraining\RevitAPIFilterClass.dll"</Assembly>
+		<AddInId>61194BE2-618A-4D86-8123-4E7AB97219E7</AddInId>
+		<FullClassName>RevitAPIFilterClass.Main </FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text> Фильтр по классам </Text>
+	</AddIn>
+</RevitAddIns>
